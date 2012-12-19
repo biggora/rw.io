@@ -4,12 +4,12 @@ Socket.IO bindings for [CompoundJS](http://compoundjs.com/)
 
 ## Installataion
 
-    $compound install https://github.com/1602/rw.io.git
+    compound install https://github.com/1602/rw.io.git
 
 or manual
 
-    $npm install socket.io rw.io
-    $echo "require('rw.io');" >> npmfile.js
+    npm install socket.io rw.io
+    echo "require('rw.io');" >> npmfile.js
 
 ## API
 
